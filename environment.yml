@@ -3,13 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
+  - jupyterlab
   - geopandas
-  - shapely>=2.0
-  - pyproj
-  - fiona
-  - rtree
   - folium
   - ipywidgets
-  - jupyterlab
-  - pandas
-  - numpy
